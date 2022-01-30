@@ -22,13 +22,11 @@ function App() {
   }, [url])
 
     function NextPage(){
-      setUrl(next)
-      // window.location.href = next
+      setUrl(next)      
     }
 
     function PrevPage(){
       setUrl(prev)
-      // window.location.href = prev
     }
   
 
