@@ -1,6 +1,6 @@
 <h1>Consumindo API de Rick e Morty</h1>
 
-<div align='center'><img src='/public/Assets/MyGif.gif'></img></div>
+<img align='center' src='/public/Assets/MyGif.gif'></img>
 
 ## 🚀 Tecnologias
 
